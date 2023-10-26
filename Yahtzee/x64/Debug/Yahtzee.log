@@ -1,0 +1,6 @@
+﻿  player.cpp
+C:\Users\spike\source\repos\Yahtzee\Yahtzee\player.cpp(118,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  scorecard.cpp
+  Yahtzee.cpp
+  Generating Code...
+  Yahtzee.vcxproj -> C:\Users\spike\source\repos\Yahtzee\x64\Debug\Yahtzee.exe
